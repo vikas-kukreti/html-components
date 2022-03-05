@@ -1,0 +1,17 @@
+{
+  "name": "html5components",
+  "version": "0.0.1",
+  "description": "HTML5 Custom Components",
+  "private": true,
+  "scripts": {
+    "start": "webpack --watch --mode=production",
+    "build": "npx webpack --mode=production"
+  },
+  "author": "Vikas Kukreti (vickydvlpr@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.7.0",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
